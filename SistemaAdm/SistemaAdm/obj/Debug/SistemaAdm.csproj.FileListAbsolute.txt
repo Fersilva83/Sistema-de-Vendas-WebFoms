@@ -1,0 +1,12 @@
+C:\Users\SAMSUNG\Desktop\Projects\Sistema de Vendas\SistemaAdm\SistemaAdm\bin\Debug\SistemaAdm.exe.config
+C:\Users\SAMSUNG\Desktop\Projects\Sistema de Vendas\SistemaAdm\SistemaAdm\bin\Debug\SistemaAdm.exe
+C:\Users\SAMSUNG\Desktop\Projects\Sistema de Vendas\SistemaAdm\SistemaAdm\bin\Debug\SistemaAdm.pdb
+C:\Users\SAMSUNG\Desktop\Projects\Sistema de Vendas\SistemaAdm\SistemaAdm\obj\Debug\SistemaAdm.csproj.AssemblyReference.cache
+C:\Users\SAMSUNG\Desktop\Projects\Sistema de Vendas\SistemaAdm\SistemaAdm\obj\Debug\SistemaAdm.fm_menu.resources
+C:\Users\SAMSUNG\Desktop\Projects\Sistema de Vendas\SistemaAdm\SistemaAdm\obj\Debug\SistemaAdm.Properties.Resources.resources
+C:\Users\SAMSUNG\Desktop\Projects\Sistema de Vendas\SistemaAdm\SistemaAdm\obj\Debug\SistemaAdm.csproj.GenerateResource.cache
+C:\Users\SAMSUNG\Desktop\Projects\Sistema de Vendas\SistemaAdm\SistemaAdm\obj\Debug\SistemaAdm.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Desktop\Projects\Sistema de Vendas\SistemaAdm\SistemaAdm\obj\Debug\SistemaAdm.exe
+C:\Users\SAMSUNG\Desktop\Projects\Sistema de Vendas\SistemaAdm\SistemaAdm\obj\Debug\SistemaAdm.pdb
+C:\Users\SAMSUNG\Desktop\Projects\Sistema de Vendas\SistemaAdm\SistemaAdm\obj\Debug\SistemaAdm.fm_categorias.resources
+C:\Users\SAMSUNG\Desktop\Projects\Sistema de Vendas\SistemaAdm\SistemaAdm\obj\Debug\SistemaAdm.fm_produtos.resources
